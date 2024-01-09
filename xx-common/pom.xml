@@ -8,7 +8,7 @@
         <artifactId>xx-framework</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
+    <packaging>pom</packaging>
     <artifactId>xx-common</artifactId>
 
     <properties>
@@ -16,5 +16,15 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <description>
+        com.xx.framework common
+    </description>
+
+    <modules>
+        <module>common-bom</module>
+        <module>common-core</module>
+        <module>common-doc</module>
+    </modules>
 
 </project>

@@ -1,4 +1,4 @@
-package com.mall.common.doc.config.properties;
+package com.xx.common.doc.config.properties;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.ExternalDocumentation;

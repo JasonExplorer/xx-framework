@@ -1,4 +1,4 @@
-package com.mall.common.doc.handler;
+package com.xx.common.doc.handler;
 
 import cn.hutool.core.io.IoUtil;
 import io.swagger.v3.core.jackson.TypeNameResolver;

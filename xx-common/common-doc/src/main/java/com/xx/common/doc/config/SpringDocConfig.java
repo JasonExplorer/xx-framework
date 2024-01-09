@@ -1,4 +1,4 @@
-package com.mall.common.doc.config;
+package com.xx.common.doc.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.Paths;
@@ -6,8 +6,8 @@ import io.swagger.v3.oas.models.info.Info;
 import io.swagger.v3.oas.models.security.SecurityRequirement;
 import lombok.RequiredArgsConstructor;
 import com.mall.common.core.utils.StringUtils;
-import com.mall.common.doc.config.properties.SpringDocProperties;
-import com.mall.common.doc.handler.OpenApiHandler;
+import com.xx.common.doc.config.properties.SpringDocProperties;
+import com.xx.common.doc.handler.OpenApiHandler;
 import org.springdoc.core.configuration.SpringDocConfiguration;
 import org.springdoc.core.customizers.OpenApiBuilderCustomizer;
 import org.springdoc.core.customizers.OpenApiCustomizer;
