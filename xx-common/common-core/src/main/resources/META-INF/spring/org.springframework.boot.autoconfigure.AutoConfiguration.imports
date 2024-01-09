@@ -1,0 +1,6 @@
+config.com.xx.common.core.ApplicationConfig
+config.com.xx.common.core.AsyncConfig
+config.com.xx.common.core.MallConfig
+config.com.xx.common.core.ThreadPoolConfig
+config.com.xx.common.core.ValidatorConfig
+utils.com.xx.common.core.SpringUtils
